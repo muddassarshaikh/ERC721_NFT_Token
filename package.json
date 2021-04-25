@@ -1,0 +1,24 @@
+{
+  "name": "color_collection",
+  "version": "1.0.0",
+  "description": "Color Collection using NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muddassarshaikh/ERC721_NFT_Token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muddassarshaikh/ERC721_NFT_Token/issues"
+  },
+  "homepage": "https://github.com/muddassarshaikh/ERC721_NFT_Token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
