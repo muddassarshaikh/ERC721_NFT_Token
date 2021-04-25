@@ -45,8 +45,8 @@ Creating a unique color collection NFT token using ERC721
 
 7. Extra Notes -- To fork any network use
 
-```ganache-cli -f https://[network].infura.io/v3/infurakey --account="private key, ETH Amount in wei"
-
+```sh
+      ganache-cli -f https://[network].infura.io/v3/infurakey --account="private key, ETH Amount in wei"
 ```
 
 WHERE,
